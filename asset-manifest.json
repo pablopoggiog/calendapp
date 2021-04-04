@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/calendapp/static/css/main.bc7a0326.chunk.css",
-    "main.js": "/calendapp/static/js/main.ac7375a1.chunk.js",
-    "main.js.map": "/calendapp/static/js/main.ac7375a1.chunk.js.map",
+    "main.js": "/calendapp/static/js/main.e6df9448.chunk.js",
+    "main.js.map": "/calendapp/static/js/main.e6df9448.chunk.js.map",
     "runtime-main.js": "/calendapp/static/js/runtime-main.5c31b120.js",
     "runtime-main.js.map": "/calendapp/static/js/runtime-main.5c31b120.js.map",
-    "static/js/2.8b2fded1.chunk.js": "/calendapp/static/js/2.8b2fded1.chunk.js",
-    "static/js/2.8b2fded1.chunk.js.map": "/calendapp/static/js/2.8b2fded1.chunk.js.map",
+    "static/js/2.2a7c9167.chunk.js": "/calendapp/static/js/2.2a7c9167.chunk.js",
+    "static/js/2.2a7c9167.chunk.js.map": "/calendapp/static/js/2.2a7c9167.chunk.js.map",
     "static/js/3.b507a2a3.chunk.js": "/calendapp/static/js/3.b507a2a3.chunk.js",
     "static/js/3.b507a2a3.chunk.js.map": "/calendapp/static/js/3.b507a2a3.chunk.js.map",
     "index.html": "/calendapp/index.html",
     "static/css/main.bc7a0326.chunk.css.map": "/calendapp/static/css/main.bc7a0326.chunk.css.map",
-    "static/js/2.8b2fded1.chunk.js.LICENSE.txt": "/calendapp/static/js/2.8b2fded1.chunk.js.LICENSE.txt",
+    "static/js/2.2a7c9167.chunk.js.LICENSE.txt": "/calendapp/static/js/2.2a7c9167.chunk.js.LICENSE.txt",
     "static/media/add.b17fc151.svg": "/calendapp/static/media/add.b17fc151.svg",
     "static/media/cloud.b7afb924.png": "/calendapp/static/media/cloud.b7afb924.png",
     "static/media/list.89fb6496.svg": "/calendapp/static/media/list.89fb6496.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5c31b120.js",
-    "static/js/2.8b2fded1.chunk.js",
+    "static/js/2.2a7c9167.chunk.js",
     "static/css/main.bc7a0326.chunk.css",
-    "static/js/main.ac7375a1.chunk.js"
+    "static/js/main.e6df9448.chunk.js"
   ]
 }
